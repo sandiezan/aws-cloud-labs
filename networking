@@ -1,0 +1,10 @@
+Static and Dynamic and IP addresses
+
+Description:
+Your role is a cloud support engineer at Amazon Web Services (AWS). During your shift, a customer from a Fortune 500 company requests assistance regarding a networking issue within their AWS infrastructure.
+
+Achieved results:
+Summarised the customer scenario
+Analysed the difference between a statically and dynamically assigned IP addresses using EC2 instances
+Assigned a persistent (static) IP to an EC2 instance
+Developped a solution to the customers issue found within this lab; after developing a solution, summarize and describe your findings
