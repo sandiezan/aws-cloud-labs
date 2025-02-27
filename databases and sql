@@ -1,0 +1,13 @@
+Lab title:
+Performing a Conditional Search
+
+Description:
+To help the team, you will write a few queries to search for records in the country table by using the SELECT statement and a WHERE clause.
+
+Achieved results:
+Wrote a search condition by using the WHERE clause
+Used the BETWEEN operator
+Used the LIKE operator with wildcard characters
+Used the AS operator to create a column alias
+Used functions in a SELECT statement
+Used functions in a WHERE clause
