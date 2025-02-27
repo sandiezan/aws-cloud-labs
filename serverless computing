@@ -1,0 +1,13 @@
+Lab title:
+Working with AWS Lambda
+
+Description:
+In this lab, you deploy and configure an AWS Lambda based serverless computing solution. 
+The Lambda function generates a sales analysis report by pulling data from a database and emailing the results daily.
+
+Achieved results:
+Recognised necessary AWS Identity and Access Management (IAM) policy permissions to facilitate a Lambda function to other Amazon Web Services (AWS) resources.
+Created a Lambda layer to satisfy an external library dependency.
+Created Lambda functions that extract data from database, and send reports to user.
+Deployed and test a Lambda function that is initiated based on a schedule and that invokes another function.
+Used CloudWatch logs to troubleshoot any issues running a Lambda function.
